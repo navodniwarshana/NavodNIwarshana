@@ -38,7 +38,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="60" height="60"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-<img src="[https://cdn.worldvectorlogo.com/logos/adobe-xd.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativebloq.com%2Fnews%2Fadobe-xd-shortcuts&psig=AOvVaw1KdTBIu3jpZdXT6BqnJ2sd&ust=1713851486818000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICM872Q1YUDFQAAAAAdAAAAABAJ)" alt="xd" width="60" height="60"/> </a> </p>
+<img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="xd" width="60" height="60"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NavodNiwarshana&show_icons=true&locale=en&layout=compact" alt="nn" /></p>
 
