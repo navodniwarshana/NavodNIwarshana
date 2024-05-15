@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nn&label=Profile%20views&color=0e75b6&style=flat" alt="nn" /> </p>
 
-- 🔭 I’m currently working on **Recpe-book**
+- 🔭 I’m currently pursuing a BICT(hons) degree
 
 - 🌱 I’m currently learning **react JS**
 
