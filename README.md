@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nn&label=Profile%20views&color=0e75b6&style=flat" alt="nn" /> </p>
 
-- 🔭 I’m currently pursuing a BICT(hons) degree
+- 🔭 I'm currently undergraduate at University of Jaffna BICT (Honours) degree
 
 - 🌱 I’m currently learning **react JS**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [data](data)
 
-- 📫 How to reach me **navo**
+- 📫 How to reach me **Navod**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
