@@ -5,9 +5,7 @@
 
 - 🔭 I'm currently undergraduate at University of Jaffna BICT (Honours) degree
 
-- 🌱 I’m currently learning **react JS**
-
-- 🤝 I’m looking for help with **java**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [..](..)
 
